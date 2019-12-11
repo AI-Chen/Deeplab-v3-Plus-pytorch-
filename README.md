@@ -17,4 +17,4 @@ Deeplab v3-plus for semantic segmentation of remote sensing（pytorch）
 + predict.py:多尺度测试。使用训练好的模型进行预测
 
 ## 预测结果展示：
-![原图](https://github.com/AI-Chen/Deeplab-v3-Plus-pytorch-/blob/master/Result/deeplab-v3P/top_mosaic_09cm_area6.tif)
+见Result/
