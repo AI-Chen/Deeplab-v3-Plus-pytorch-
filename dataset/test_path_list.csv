@@ -1,0 +1,12 @@
+edge,image,label,ndsm,ndvi
+dataset/test/edges/0004.png,dataset/test/images/top_mosaic_09cm_area4.tif,dataset/test/labels/004.png,dataset/test/ndsms/00001.tif,dataset/test/ndvis/00001.tif
+dataset/test/edges/0006.png,dataset/test/images/top_mosaic_09cm_area6.tif,dataset/test/labels/006.png,dataset/test/ndsms/00002.tif,dataset/test/ndvis/00002.tif
+dataset/test/edges/0008.png,dataset/test/images/top_mosaic_09cm_area8.tif,dataset/test/labels/008.png,dataset/test/ndsms/00003.tif,dataset/test/ndvis/00003.tif
+dataset/test/edges/0010.png,dataset/test/images/top_mosaic_09cm_area10.tif,dataset/test/labels/010.png,dataset/test/ndsms/00004.tif,dataset/test/ndvis/00004.tif
+dataset/test/edges/0012.png,dataset/test/images/top_mosaic_09cm_area12.tif,dataset/test/labels/012.png,dataset/test/ndsms/00005.tif,dataset/test/ndvis/00005.tif
+dataset/test/edges/0014.png,dataset/test/images/top_mosaic_09cm_area14.tif,dataset/test/labels/014.png,dataset/test/ndsms/00006.tif,dataset/test/ndvis/00006.tif
+dataset/test/edges/0016.png,dataset/test/images/top_mosaic_09cm_area16.tif,dataset/test/labels/016.png,dataset/test/ndsms/00007.tif,dataset/test/ndvis/00007.tif
+dataset/test/edges/0022.png,dataset/test/images/top_mosaic_09cm_area22.tif,dataset/test/labels/022.png,dataset/test/ndsms/00008.tif,dataset/test/ndvis/00008.tif
+dataset/test/edges/0024.png,dataset/test/images/top_mosaic_09cm_area24.tif,dataset/test/labels/024.png,dataset/test/ndsms/00008.tif,dataset/test/ndvis/00008.tif
+dataset/test/edges/0035.png,dataset/test/images/top_mosaic_09cm_area35.tif,dataset/test/labels/035.png,dataset/test/ndsms/00008.tif,dataset/test/ndvis/00008.tif
+dataset/test/edges/0038.png,dataset/test/images/top_mosaic_09cm_area38.tif,dataset/test/labels/038.png,dataset/test/ndsms/00008.tif,dataset/test/ndvis/00008.tif
