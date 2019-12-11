@@ -5,7 +5,8 @@ Deeplab v3-plus for semantic segmentation of remote sensing（pytorch）
 在ISPRS Vaihigen 2D语义标签比赛数据集上评估了deeplab v3+的表现。该数据集由33张大小不同的高分辨率遥感影像组成，每张影像都是从德国Vaihigen市高空中获取的真正射影象（TOP）。在某种程度上，这个数据集的遥感印象与普通的自然影像没有差别，他们均是由三个通道组成。所以，我们可以将其看作是普通图片。数据集还包括与每个影像对应的归一化数字表面模型（nDSM）。在这33张图像中，16张提供了精细标注的ground truth，其余17张并未公布ground truth。整个数据集包含六个类别：不透水表面、建筑、低植被、树木、汽车、杂波/背景。
 
 ## 文件夹列表：
-+ dataset：存放处理好的数据集的文件夹（处理好的数据集太大没办法放上来，所以以下train、val、test文件夹是没有上传的。可以去官网http://www2.isprs.org/commissions/comm2/wg4/vaihingen-2d-semantic-labeling-contest.html下载然后自己处理，裁剪成512×512的图片，并自己划分训练集与验证集）
++ dataset：存放处理好的数据集的文件夹（处理好的数据集太大没办法放上来，所以以下train、val、test文件夹是没有上传的。可以去官网http://www2.isprs.org/commissions/comm2/wg4/vaihingen-2d-semantic-labeling-contest.html
+ 下载然后自己处理，裁剪成512×512的图片，并自己划分训练集与验证集）
   + train文件夹:存放训练集图片；
   + val文件夹:存放验证集图片
   + test文件夹:存放测试集图片
